@@ -15,3 +15,4 @@ Count the number of patients referred to specific departments from the ER each d
 Use an area sparkline to track daily trends and identify departments with high referral rates, which may require additional resources.
 
 
+Dash board Live link:https://app.powerbi.com/groups/me/reports/4ee9077d-8464-4760-b42c-3beb11a05661/144679e65a1289084e3d?experience=power-bi
